@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Validator\Interface;
+namespace Sruuua\Validator\Interface;
 
-use App\Validator\Validator;
+use Sruuua\Validator\Validator;
 
 interface ValidatorAwareInterface
 {

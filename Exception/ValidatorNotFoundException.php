@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Validator\Exception;
+namespace Sruuua\Validator\Exception;
 
 class ValidatorNotFoundException extends \Exception
 {

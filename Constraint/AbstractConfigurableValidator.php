@@ -1,10 +1,10 @@
 <?php
 
-namespace App\Validator\Constraint;
+namespace Sruuua\Validator\Constraint;
 
-use App\Validator\Interface\ValidatorConfigurableInterface;
-use App\Validator\Interface\ValidatorInterface;
-use App\Validator\Exception\OptionNotExist;
+use Sruuua\Validator\Interface\ValidatorConfigurableInterface;
+use Sruuua\Validator\Interface\ValidatorInterface;
+use Sruuua\Validator\Exception\OptionNotExist;
 
 abstract class AbstractConfigurableValidator implements ValidatorConfigurableInterface, ValidatorInterface
 {

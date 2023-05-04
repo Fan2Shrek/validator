@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Validator\Interface;
+namespace Sruuua\Validator\Interface;
 
 interface ValidatorInterface
 {

@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Validator;
+namespace Sruuua\Validator;
 
-use App\Validator\Interface\ValidatorInterface;
+use Sruuua\Validator\Interface\ValidatorInterface;
 
 #[\Attribute(\Attribute::TARGET_PROPERTY)]
 class Constraint

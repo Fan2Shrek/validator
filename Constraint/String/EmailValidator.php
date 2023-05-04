@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Validator\Constraint\String;
+namespace Sruuua\Validator\Constraint\String;
 
-use App\Validator\Interface\ValidatorInterface;
+use Sruuua\Validator\Interface\ValidatorInterface;
 
 class EmailValidator implements ValidatorInterface
 {

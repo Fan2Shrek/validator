@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Validator\Constraint\String;
+namespace Sruuua\Validator\Constraint\String;
 
-use App\Validator\Constraint\AbstractConfigurableValidator;
+use Sruuua\Validator\Constraint\AbstractConfigurableValidator;
 
 class StringValidator extends AbstractConfigurableValidator
 {
